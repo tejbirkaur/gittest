@@ -1,0 +1,624 @@
+/*
+ Theme Name:   Consultix Child
+ Theme URI:    http://radiantthemes.com/consultix/
+ Description:  Consultix Child Theme
+ Author:       RadiantThemes.com
+ Author URI:   http://radiantthemes.com/
+ Template:     consultix
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+ Text Domain:  consultix-child
+*/
+/*.page-id-10398 {
+	background-color: #ededed;
+}*/
+/*.gee-score-container {
+	width: 950px;
+	margin: 0 auto;
+	position: relative;
+}*/
+
+
+
+
+ .menu-dummy-menu-container ul li ul {
+	width: 255px !important;
+}
+/* font - size */
+
+.font-size18 {
+	font-size: 18px;
+}
+
+/* font - size */
+.Overflow-visible {
+	overflow: visible !important;
+}
+
+/* text limit */
+
+
+.text-limit-by-class p {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: N;
+	line-height: X;
+	max-height: X*N;
+}
+
+/* text limit */
+
+/* color */
+
+.blue-color-of-text {
+	color: #273272;
+}
+.gray-back-color-of-text {
+	/* background: #f4f5f6; */
+	border-bottom: 1px solid gray;
+	padding: 20px 0px;
+}
+.gray-back-color-of-text-white {
+	/* background: #f4f5f6; */
+	border-bottom: 1px solid #fff;
+	padding: 20px 0px;
+}
+.gray-back-color-of-text:last-child {
+	/* background: #f4f5f6; */
+	border-bottom: 0px solid gray;
+	padding: 20px 0px;
+}
+.gray-back-color-of-text-white:last-child {
+	/* background: #f4f5f6; */
+	border-bottom: 0px solid gray;
+	padding: 20px 0px;
+}
+
+
+/* color */
+
+/* margin class */
+
+.Margin-Left20 {
+	margin-left: 20px;
+}
+
+/* margin class */
+
+/* hover */
+
+#Services-inner-boxes-id .vc_column-inner:hover {
+	background: #283172 !important;
+	color: #fff;
+}
+#Services-inner-boxes-id:hover h5 {
+	color: #fff !important;
+}
+
+/* hover */
+
+.blue-color-of-theme-text {
+	color: #283172;
+}
+#ul-with-disc-left ul {
+	list-style: disc;
+	margin-left: 15px;
+}
+.list-of-disc-ul {
+	list-style: disc;
+	margin-left: 30px;
+}
+#ul-with-disc-left-decimal ul {
+	list-style: decimal;
+	margin-left: 30px;
+}
+.bottom-space-of-ol-li ol li {
+	margin-bottom: 17px;
+}
+.bottom-space-of-ul-li ul li {
+	margin-bottom: 10px;
+}
+.ul-with-disc-left-decimal {
+	list-style: decimal;
+	margin-left: 30px;
+}
+#single-zenpeak-of-image-logo img {
+	width: 50%;
+}
+#image-of-full-width img {
+	width: 100%;
+}
+#image-of-full-width .wpb_wrapper {
+	width: 100%;
+}
+#image-of-full-width .vc_single_image-wrapper {
+	width: 100%;
+}
+#text-color-of-white {
+	color: #fff;
+}
+#gee-score-max-width-div {
+	max-width: 700px;
+	margin: 0 auto;
+	box-shadow: 0px 0px 4px 0px;
+	padding: 30px 30px;
+}
+.list {
+	background-color: #fff;
+	border-radius: 4px;
+	box-shadow: 0 2px 3px rgba(10,10,10,.1),0 0 0 1px rgba(10,10,10,.1);
+}
+#align-selft-text-id .wpb_wrapper {
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+	align-items: center;
+	align-content: center;
+	height: 100%;
+	justify-content: center;
+	margin-bottom: 0px;
+	color: #fff;
+}
+.wpb_wrapper p{
+	text-align: center;
+    width: 704px;
+    justify-content: center;
+    margin-left: 200px;
+    margin-top: 22px;
+    color: wheat;
+    font-size: 20px;
+}
+#centering {
+	color: wheat;
+	font-size: 20px;
+}
+/* without color */
+#align-selft-text-id-1 .wpb_wrapper {
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+	align-content: center;
+	height: 100%;
+	justify-content: center;
+	margin-bottom: 0px;
+}
+
+/* without color */
+
+.align-selft-text-id .wpb_wrapper {
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+	align-content: center;
+	height: 100%;
+	justify-content: center;
+	margin-bottom: 0px;
+	color: #fff;
+}
+.align-self-center-image .wpb_wrapper {
+	align-self: center;
+}
+#single-zenpeak-of-image-logo .wpb_wrapper {
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+	align-items: center;
+	align-content: center;
+	height: 100%;
+	justify-content: center;
+	margin-bottom: 0px;
+}
+#border-of-top-and-bottom-class {
+	border-bottom: 1px solid #273272;
+    border-bottom-style: solid;
+	border-style: dotted;
+    border-top-style: dotted;
+    border-right-style: dotted;
+    border-left-style: dotted;
+	border-top: 1px solid #273272;
+	border-top-style: dotted;
+	border-left: none;
+	border-right: none;
+	padding: 10px 0px
+}
+#Seeker-table .vc_column-inner {
+	/*border: 1px solid gray;*/ 
+	box-shadow: 0px 0px 1px 0px;
+}
+#Seeker-table h2 {
+	background: #fff;
+}
+#Seeker-table-active-id .vc_column-inner {
+	border-bottom: 1px solid #fff;
+}
+#Seeker-table-active-id h2 {
+	background: #f19d2f;
+}
+#Seeker-table-active-id p {
+	font-size: 18px;
+}
+#Seeker-table p {
+	font-size: 18px;
+}
+/*#theme-related-button-style {
+	font-weight: 400;
+	color: rgb(255, 255, 255);
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	background-color: rgb(238, 95, 24);
+	border-radius: 50px;
+	outline: currentcolor none medium;
+	padding: 10px 36px;
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}*/
+
+/* under development */
+
+.Under-development {
+	justify-content: center;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+/* under development */
+
+.body-content-of-geescore {
+	background: #fff;
+	margin-top: 20px;
+	padding: 15px 0px;
+}
+#nav-main-geescore {
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	border-style: dashed;
+	border-left: 0px;
+	border-right: 0px;
+	padding: 5px 0px;
+}
+#nav-main-geescore ul li::before {
+	display: none;
+}
+#nav-main-geescore ul {
+	margin: 0px;
+	padding: 0px;
+}
+#nav-main-geescore ul li {
+	padding-left: 0px;
+	margin-right: 28px;
+	margin-bottom: 0px;
+}
+#nav-main-geescore ul li a {
+	font-size: 21px;
+	color: #3b3b3b;
+}
+#anchorcolorone a {
+	color: #01a3fd;
+	font-weight: 400;
+	font-size: 14px;
+	text-decoration: underline;
+}
+#apply-for-job-again-top {
+	margin-top: -10px;
+}
+
+#Vimeo-video-of-geescore iframe {
+	border: 1px solid #d1d1d1;
+}
+
+/* publisher page */
+
+#gee-score-publisher-inner p {
+	line-height: 35px;
+}
+#no-job-board-inner p {
+	margin-bottom: 10px;
+}
+#job-board-outer-id {
+	border-bottom: 2px solid #d9d9d9;
+}
+#job-poster-want-left-inner p {
+	margin-bottom: 12px;
+}
+.dotted-center {
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+}
+#Have-job-board-column {
+	border: 1px solid gray;
+}
+#job-poster-want-left-inner {
+	border-right: 1px solid gray;
+}
+#section-of-ques-ans {
+	color: #fff;
+}
+#section-of-ques-ans-bottom-line p {
+	color: #424141;
+}
+/* publisher page */
+
+/* zen peak */
+#weight-seekar-less {
+	font-weight: 500;
+}
+#zenpeak-top-logo-id p {
+	font-weight: 500;
+}
+#zenpeak-top-logo-id span {
+	font-weight: 500;
+}
+#zen-peak-top-logo-button {
+	background: #88b06a;
+	width: 18%;
+	text-align: center;
+	margin: 0 auto;
+	padding: 18px 0px;
+	border-radius: 2px;
+	color: #fff;
+	margin-top: 25px;
+	font-size: 16px;
+}
+#simple-button-for-readmore {
+	color: #1967d2;
+	margin-top: 10px;
+}
+#ze-peak-update-id p::after {
+	position: absolute;
+	content: "";
+	background: #273272;
+	height: 2px;
+	width: 90px;
+	left: 0;
+	right: 0;
+	text-align: center;
+	margin: 0 auto;
+	top: 0;
+}
+#font-weight-of-heading-text {
+	font-weight: 400;
+}
+#anchorcolor a {
+	color: #1967d2;
+	font-weight: 400;
+	font-size: 14px;
+}
+#ze-peak-update-id p {
+	font-size: 30px;
+	color: #273272;
+	font-weight: 800;
+	font-family: Poppins;
+}
+#zenpeakboxone-inner div {
+	align-self: center;
+}
+
+/*#inner-of-star-column div {
+	display: flex;
+	flex-direction: row;
+	height: 25px;
+}*/
+#inner-of-star-column div {
+	/* display: flex; */
+	float: left;
+	height: 100%;
+}
+/*#inner-of-star-column div {
+	display: flex;
+}*/
+#inner-of-star-column h5 {
+	float: left;
+}
+#start-icon-of-zenpeak div {
+	width: 16px;
+	height: 20px;
+}
+#inner-of-star-column p {
+	align-self: center;
+	margin-left: 0px;
+}
+
+#start-section-preview-buttons-inner {
+	margin: 0 auto;
+	text-align: center;
+}
+#start-section-preview-main-buttons {
+	display: initial;
+	color: #283172;
+	font-weight: 500;
+	font-size: 18px;
+	margin-right: 20px;
+	border-bottom: 2px solid #283172;
+	padding-bottom: 10px;
+}
+#map-background-image-zenpeak {
+	background-image: url(https://geescore.com/wp-content/uploads/2019/05/staticmap.jpg);
+	padding-top: 53%;
+}
+.time-schdule-of-zenpeak {
+	display: flex;
+	justify-content: space-between;
+}
+#single-zenpeak-of-image-logo-inner .vc_column-inner {
+	background: #f4f5f6;
+	padding: 35px 0px;
+	align-self: center;
+	align-items: center;
+	align-content: center;
+	display: flex;
+	justify-content: center;
+}
+
+/* zen peak */
+
+/* centered boxes details */
+
+#boxed-centered-details-section .vc_column-inner {
+	border: 1px solid #273272;
+}
+
+/* centered boxes details */
+
+/* terms and conditions page */
+/*#terms-and-conditions-gee-score p:last-child {
+	border-bottom: 1px solid;
+    border-bottom-style: solid;
+	border-style: dotted;
+    border-top-style: dotted;
+    border-right-style: dotted;
+    border-left-style: dotted;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	padding: 0px 0px 30px 0px;
+}*/
+
+/* terms and conditions page */
+
+/* menu for gee - score page custom */
+
+#Custom-menu-for-job ul li a {
+	color: #4d4d4d;
+	font-weight: bold;
+}
+#Custom-menu-for-job ul li {
+	display: inline-block;
+}
+#Custom-menu-for-job ul {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 13px;
+}
+
+/* menu for gee - score page custom */
+
+/* free and paid section */
+#price-by-seeker-table .wpb_wrapper {
+	/* border: 1px solid gray; */
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	background: #f19d2f;
+}
+#price-by-seeker-table p {
+	font-size: 30px;
+}
+/* free and paid section */
+
+
+/* beta page css start */
+
+.forms-button {
+	max-width: 590px;
+	margin: 0 auto;
+	display: flex;
+}
+.beta_enter input {
+	width: 125px;
+	font-size: 20px;
+	height: auto;
+	padding: 8px !important;
+	font-size: 18px;
+	border-radius: 25px;
+	background-color: dodgerblue;
+	border: 2px solid #0d1a26;
+	margin: 0px auto;
+	text-align: center;
+	display: block;
+	margin-top: 20px;
+}
+.forms-button input {
+	empty-cells: ;
+	width: 100%;
+	border: 1px solid gainsboro;
+	height: 40px;
+	border-radius: 10px;
+	text-align: center;
+}
+.email-one {
+	width: 60%;
+	margin-right: 10px;
+}
+.email-and-confirm-email {
+	text-align: center;
+}
+/*.vc_row.wpb_row.vc_inner.vc_row-fluid.vc_custom_1559600928642 {
+      width: 100px;
+}*/
+.wpb_wrapper.vc_single_image-wrapper.vc_single_image-img
+{
+	width:100px;
+}
+	
+
+	/* justify-content: center; */
+
+
+/* beta page css end */
+
+
+/* responsive */
+
+@media (min-width: 768px) and (max-width: 991px) {
+/*	.gee-score-container {
+	width: 300px;
+	margin: 0 auto;
+}*/
+.time-schdule-of-zenpeak p {
+	font-size: 12px;
+}
+#Custom-menu-for-job ul li a {
+	font-size: 13px;
+}
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+/*	.gee-score-container {
+	width: 300px;
+	margin: 0 auto;
+}*/
+#Custom-menu-for-job ul li a {
+	font-size: 14px;
+	padding: 5px;
+}
+
+}
+
+@media (min-width: 481px) and (max-width: 575px) {
+/*	.gee-score-container {
+	width: 300px;
+	margin: 0 auto;
+}*/
+#Custom-menu-for-job ul {
+	display: inline;
+}
+#Custom-menu-for-job ul li a {
+	font-size: 14px;
+	padding: 0px 8px;
+}
+
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+/*	.gee-score-container {
+	width: 300px;
+}*/
+#Custom-menu-for-job ul {
+	display: inline-grid;
+}
+
+
+}
+
+/* beta start */
+
+/* beta end */

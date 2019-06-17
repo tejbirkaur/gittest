@@ -1,0 +1,64 @@
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://themes.radiantthemes.com/consultix/demo-ten
+Data file = /home/cduz6934h/public_html/themes/consultix/demo-ten/wp-content/uploads/2018/04/content-3.xml
+Widget file = /home/cduz6934h/public_html/themes/consultix/demo-ten/wp-content/uploads/2018/04/widgets.wie
+Customizer file = /home/cduz6934h/public_html/themes/consultix/demo-ten/wp-content/uploads/2018/04/customizer-1.dat
+Redux files:
+consultix_theme_option -> /home/cduz6934h/public_html/themes/consultix/demo-ten/wp-content/uploads/2018/04/redux-2.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Widgets in Menu : 
+
+Navigation Menu - Design &amp; Style - Imported
+Navigation Menu - Create &amp; Organize - Imported
+Navigation Menu - Showcase &amp; Promote - Imported
+
+Sidebar : 
+
+Search - No Title - Widget already exists
+Consultix Recent Posts With Thumbnail Widget - No Title - Imported
+Categories - CATEGORIES - Imported
+Archives - ARCHIVES - Imported
+Tag Cloud - TAGS - Imported
+
+Product | Sidebar : 
+
+Product Search - Search - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Products by Rating - Top rated products - Imported
+
+Footer | #1 : 
+
+Image - No Title - Imported
+Consultix Contact Box - No Title - Imported
+
+Footer | #2 : 
+
+Navigation Menu - Our Services - Imported
+
+Footer | #3 : 
+
+Text - Newsletter - Imported
+Text - No Title - Imported
+
+
+
+---Importing Redux settings---
+The Redux option name: consultix_theme_option, was not found in this WP site, so it was not imported!
+
+---Importing customizer settings---
+Customizer settings import finished!

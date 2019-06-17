@@ -1,0 +1,8 @@
+[22-May-2019 14:57:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/geemode/geescore.com/wp-content/themes/twentyseventeen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/geemode/geescore.com/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[22-May-2019 20:26:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/geemode/geescore.com/wp-content/themes/twentyseventeen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/geemode/geescore.com/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26

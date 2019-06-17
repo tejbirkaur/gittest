@@ -1,0 +1,67 @@
+
+---Downloaded files---
+The import files for: Demo 11 (3 Variations) were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://geescore.com
+Data file = /home/geemode/geescore.com/wp-content/themes/consultix/inc/import/eleven/content.xml
+Widget file = /home/geemode/geescore.com/wp-content/themes/consultix/inc/import/eleven/widgets.wie
+Customizer file = /home/geemode/geescore.com/wp-content/themes/consultix/inc/import/eleven/customizer.dat
+Redux files:
+consultix_theme_option -> /home/geemode/geescore.com/wp-content/themes/consultix/inc/import/eleven/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Consultix Recent Posts With Thumbnail Widget - No Title - Imported
+Categories - CATEGORIES - Imported
+Archives - ARCHIVES - Imported
+Tag Cloud - TAGS - Imported
+
+Product | Sidebar : 
+
+Product Search - Search - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Products by Rating - Top rated products - Imported
+
+Footer | #1 : 
+
+Text - Company Address - Imported
+Consultix Contact Box - No Title - Imported
+
+Footer | #2 : 
+
+Navigation Menu - Our Services - Imported
+
+Footer | #3 : 
+
+Text - Newsletter - Imported
+Text - No Title - Imported
+
+rt_megamenu_widget : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Design &amp; Style - Imported to Inactive
+Navigation Menu - Create &amp; Organize - Imported to Inactive
+Navigation Menu - Showcase &amp; Promote - Imported to Inactive
+
+
+
+---Importing Redux settings---
+Redux settings import for: consultix_theme_option finished successfully!
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+ Slider processed

@@ -1,0 +1,12 @@
+[07-May-2019 00:15:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/geemode/geescore.com/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/geemode/geescore.com/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 20:23:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/geemode/geescore.com/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/geemode/geescore.com/wp-content/themes/twentysixteen/404.php on line 10
+[28-May-2019 08:44:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/geemode/geescore.com/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/geemode/geescore.com/wp-content/themes/twentysixteen/404.php on line 10

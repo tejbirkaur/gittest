@@ -1,0 +1,327 @@
+/*
+ Theme Name:   Consultix Child
+ Theme URI:    http://radiantthemes.com/consultix/
+ Description:  Consultix Child Theme
+ Author:       RadiantThemes.com
+ Author URI:   http://radiantthemes.com/
+ Template:     consultix
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+ Text Domain:  consultix-child
+*/
+/*.page-id-10398 {
+	background-color: #ededed;
+}*/
+/*.gee-score-container {
+	width: 950px;
+	margin: 0 auto;
+	position: relative;
+}*/
+
+/* hover */
+
+#Services-inner-boxes-id .vc_column-inner:hover {
+	background: #283172 !important;
+	color: #fff;
+}
+#Services-inner-boxes-id:hover h5 {
+	color: #fff !important;
+}
+
+/* hover */
+
+.blue-color-of-theme-text {
+	color: #283172;
+}
+#ul-with-disc-left ul {
+	list-style: disc;
+	margin-left: 15px;
+}
+#gee-score-max-width-div {
+	max-width: 700px;
+	margin: 0 auto;
+	box-shadow: 0px 0px 4px 0px;
+	padding: 30px 30px;
+}
+/*#theme-related-button-style {
+	font-weight: 400;
+	color: rgb(255, 255, 255);
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	background-color: rgb(238, 95, 24);
+	border-radius: 50px;
+	outline: currentcolor none medium;
+	padding: 10px 36px;
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}*/
+
+/* under development */
+
+.Under-development {
+	justify-content: center;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+/* under development */
+
+.body-content-of-geescore {
+	background: #fff;
+	margin-top: 20px;
+	padding: 15px 0px;
+}
+#nav-main-geescore {
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	border-style: dashed;
+	border-left: 0px;
+	border-right: 0px;
+	padding: 5px 0px;
+}
+#nav-main-geescore ul li::before {
+	display: none;
+}
+#nav-main-geescore ul {
+	margin: 0px;
+	padding: 0px;
+}
+#nav-main-geescore ul li {
+	padding-left: 0px;
+	margin-right: 28px;
+	margin-bottom: 0px;
+}
+#nav-main-geescore ul li a {
+	font-size: 21px;
+	color: #3b3b3b;
+}
+#anchorcolorone a {
+	color: #01a3fd;
+	font-weight: 400;
+	font-size: 14px;
+	text-decoration: underline;
+}
+#apply-for-job-again-top {
+	margin-top: -10px;
+}
+#text-color-of-white {
+	color: #fff;
+}
+#Vimeo-video-of-geescore iframe {
+	border: 1px solid #d1d1d1;
+}
+
+/* publisher page */
+
+#gee-score-publisher-inner p {
+	line-height: 35px;
+}
+#no-job-board-inner p {
+	margin-bottom: 10px;
+}
+#job-board-outer-id {
+	border-bottom: 2px solid #d9d9d9;
+}
+#job-poster-want-left-inner p {
+	margin-bottom: 12px;
+}
+.dotted-center {
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+}
+#Have-job-board-column {
+	border: 1px solid gray;
+}
+#job-poster-want-left-inner {
+	border-right: 1px solid gray;
+}
+#section-of-ques-ans {
+	color: #fff;
+}
+#section-of-ques-ans-bottom-line p {
+	color: #424141;
+}
+/* publisher page */
+
+/* zen peak */
+#weight-seekar-less {
+	font-weight: 500;
+}
+#zenpeak-top-logo-id p {
+	font-weight: 500;
+}
+#zenpeak-top-logo-id span {
+	font-weight: 500;
+}
+#zen-peak-top-logo-button {
+	background: #88b06a;
+	width: 18%;
+	text-align: center;
+	margin: 0 auto;
+	padding: 18px 0px;
+	border-radius: 2px;
+	color: #fff;
+	margin-top: 25px;
+	font-size: 16px;
+}
+#simple-button-for-readmore {
+	color: #1967d2;
+	margin-top: 10px;
+}
+#ze-peak-update-id p::after {
+	position: absolute;
+	content: "";
+	background: #273272;
+	height: 2px;
+	width: 90px;
+	left: 0;
+	right: 0;
+	text-align: center;
+	margin: 0 auto;
+	top: 0;
+}
+#font-weight-of-heading-text {
+	font-weight: 400;
+}
+#anchorcolor a {
+	color: #1967d2;
+	font-weight: 400;
+	font-size: 14px;
+}
+#ze-peak-update-id p {
+	font-size: 30px;
+	color: #273272;
+	font-weight: 800;
+	font-family: Poppins;
+}
+#zenpeakboxone-inner div {
+	align-self: center;
+}
+#single-zenpeak-of-image-logo img {
+	width: 50%;
+}
+/*#inner-of-star-column div {
+	display: flex;
+	flex-direction: row;
+	height: 25px;
+}*/
+#inner-of-star-column div {
+	/* display: flex; */
+	float: left;
+	height: 100%;
+}
+/*#inner-of-star-column div {
+	display: flex;
+}*/
+#inner-of-star-column h5 {
+	float: left;
+}
+#start-icon-of-zenpeak div {
+	width: 16px;
+	height: 20px;
+}
+#inner-of-star-column p {
+	align-self: center;
+	margin-left: 0px;
+}
+
+#start-section-preview-buttons-inner {
+	margin: 0 auto;
+	text-align: center;
+}
+#start-section-preview-main-buttons {
+	display: initial;
+	color: #283172;
+	font-weight: 500;
+	font-size: 18px;
+	margin-right: 20px;
+	border-bottom: 2px solid #283172;
+	padding-bottom: 10px;
+}
+#map-background-image-zenpeak {
+	background-image: url(https://geescore.com/wp-content/uploads/2019/05/staticmap.jpg);
+	padding-top: 53%;
+}
+.time-schdule-of-zenpeak {
+	display: flex;
+	justify-content: space-between;
+}
+#single-zenpeak-of-image-logo-inner .vc_column-inner {
+	background: #f4f5f6;
+	padding: 35px 0px;
+	align-self: center;
+	align-items: center;
+	align-content: center;
+	display: flex;
+	justify-content: center;
+}
+
+/* zen peak */
+
+/* centered boxes details */
+
+#boxed-centered-details-section .vc_column-inner {
+	border: 1px solid #273272;
+}
+
+/* centered boxes details */
+
+/* terms and conditions page */
+/*#terms-and-conditions-gee-score p:last-child {
+	border-bottom: 1px solid;
+    border-bottom-style: solid;
+	border-style: dotted;
+    border-top-style: dotted;
+    border-right-style: dotted;
+    border-left-style: dotted;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	padding: 0px 0px 30px 0px;
+}*/
+
+/* terms and conditions page */
+
+
+
+/* responsive */
+
+@media (min-width: 768px) and (max-width: 991px) {
+/*	.gee-score-container {
+	width: 300px;
+	margin: 0 auto;
+}*/
+.time-schdule-of-zenpeak p {
+	font-size: 12px;
+}
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+/*	.gee-score-container {
+	width: 300px;
+	margin: 0 auto;
+}*/
+
+}
+
+@media (min-width: 481px) and (max-width: 575px) {
+/*	.gee-score-container {
+	width: 300px;
+	margin: 0 auto;
+}*/
+
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+/*	.gee-score-container {
+	width: 300px;
+}*/
+
+
+}
